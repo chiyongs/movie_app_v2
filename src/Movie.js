@@ -15,7 +15,7 @@ function Movie({ id, title, year, summary, poster, genres }) {
             </li>
           ))}
         </ul>
-        <p claasName="movies__summary">{summary}</p>
+        <p className="movies__summary">{summary}</p>
       </div>
     </div>
   );
